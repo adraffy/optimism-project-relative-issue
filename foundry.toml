@@ -1,1 +1,5 @@
 [profile.default]
+
+remappings = [
+	'@eth-optimism/=lib/optimism/packages/'
+]
