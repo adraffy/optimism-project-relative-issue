@@ -12,4 +12,9 @@ contract Contract {
 }
 
 // Compiler run failed:
-// Error (9553): Invalid type for argument in function call. Invalid implicit conversion from struct Types.OutputRootProof memory to struct Types.OutputRootProof memory requested.
+// Error (9553): Invalid type for argument in function call. 
+// Invalid implicit conversion from 
+// > struct Types.OutputRootProof memory 
+// to 
+// > struct Types.OutputRootProof memory
+// requested.
