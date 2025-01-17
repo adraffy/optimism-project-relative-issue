@@ -1,5 +1,6 @@
 [profile.default]
 
 remappings = [
+	"lib/optimism/packages/contracts-bedrock/:src=lib/optimism/packages/contracts-bedrock/src/",
 	'@eth-optimism/=lib/optimism/packages/'
 ]
